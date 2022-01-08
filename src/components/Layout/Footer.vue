@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-3 col-sm-6 sm-padding">
           <div class="widget-content">
-            <router-link to="/"><img src="/arkit/img/logo-dark.png" alt="brand"></router-link>
+            <router-link to="/arkit-vue/"><img src="/arkit/img/logo-dark.png" alt="brand"></router-link>
             <p>Building your own home is about desire, fantasy. But it’s achievable anyone can do it.</p>
           </div>
         </div>
@@ -12,9 +12,9 @@
           <div class="widget-content">
             <h4>Company</h4>
             <ul class="widget-links">
-              <li><router-link to="/about">About Us</router-link></li>
-              <li><router-link to="/services">Our Services</router-link></li>
-              <li><router-link to="contacts">Contact Us</router-link></li>
+              <li><router-link to="/arkit-vue/about">About Us</router-link></li>
+              <li><router-link to="/arkit-vue/services">Our Services</router-link></li>
+              <li><router-link to="/arkit-vue/contacts">Contact Us</router-link></li>
             </ul>
           </div>
         </div>

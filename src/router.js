@@ -6,11 +6,11 @@ import ContactPage from "@/components/Pages/ContactPage";
 import ProjectPage from "@/components/Pages/ProjectPage";
 
 const routes = [
-    { path: '/', component: HomePage },
-    { path: '/about', component: AboutPage },
-    { path: '/services', component: ServicesPage},
-    { path: '/projects', component: ProjectPage},
-    { path: '/contacts', component: ContactPage},
+    { path: '/arkit-vue/', component: HomePage },
+    { path: '/arkit-vue/about', component: AboutPage },
+    { path: '/arkit-vue/services', component: ServicesPage},
+    { path: '/arkit-vue/projects', component: ProjectPage},
+    { path: '/arkit-vue/contacts', component: ContactPage},
 ]
 
 const router = createRouter({
